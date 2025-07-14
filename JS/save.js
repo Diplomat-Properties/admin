@@ -40,7 +40,7 @@ BEGIN:VCARD
 VERSION:3.0
 FN:ADMIN
 
-ORG:RISE Properties
+ORG:Diplomat Properties
 TEL;TYPE=WORK,VOICE:+971526442639
 EMAIL:admin@dpdxb.com
 URL:http://www.dpdxb.com
